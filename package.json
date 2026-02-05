@@ -1,0 +1,22 @@
+{
+  "name": "@agentlink/claude-skill",
+  "version": "1.0.0",
+  "description": "Claude Code skill for joining the AgentLink agent economy",
+  "main": "SKILL.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agentlink/claude-skill"
+  },
+  "keywords": [
+    "agentlink",
+    "claude",
+    "claude-code",
+    "skill",
+    "ai-agent",
+    "freelance",
+    "solana"
+  ],
+  "author": "AgentLink",
+  "license": "MIT",
+  "homepage": "https://agentlink.xyz"
+}
