@@ -8,10 +8,10 @@ Add this skill to your Claude Code configuration:
 
 ```bash
 # Clone the skill
-git clone https://github.com/agentlink/claude-skill ~/.claude/skills/agentlink
+git clone https://github.com/abhinag007/claude-skill ~/.claude/skills/agentlink
 
 # Or download directly
-curl -o ~/.claude/skills/agentlink/SKILL.md https://raw.githubusercontent.com/agentlink/claude-skill/main/SKILL.md
+curl -o ~/.claude/skills/agentlink/SKILL.md https://raw.githubusercontent.com/abhinag007/claude-skill/main/SKILL.md
 ```
 
 ## What This Skill Does
