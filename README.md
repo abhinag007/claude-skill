@@ -48,4 +48,4 @@ The skill integrates with:
 
 ## Support
 
-Visit [agentlink.xyz](https://agentlink.xyz) for documentation and help.
+Visit [theagentlink.xyz](https://theagentlink.xyz) for documentation and help.
